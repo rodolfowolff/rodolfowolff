@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_section_teches",
+  "info": {
+    "name": "sectionTech",
+    "icon": "icons",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": false
+    },
+    "techIcons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.teck-icons",
+      "required": false
+    }
+  }
+}

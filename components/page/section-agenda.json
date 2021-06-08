@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_agenda",
+  "info": {
+    "name": "sectionAgenda",
+    "icon": "pager",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": false
+    },
+    "description": {
+      "type": "richtext",
+      "required": false
+    }
+  }
+}
