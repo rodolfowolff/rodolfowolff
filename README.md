@@ -6,9 +6,7 @@ Apaixonado pelo Front-End com ênfase em performance e um SEO de boa indexação
 
 Algumas tecnologias com as quais gosto de trabalhar incluem ReactJS, JavaScript, APIs e NodeJS.
 
-Tenho interesse em escrever e desenvolver sobre soluções de software (código aberto).
-
-Atualmente meus estudos estão focados em TypeScript e NextJs.
+Atualmente meus estudos estão focados em utilizar TypeScript e o NextJs.
 
 
 ## 📬 Entrar em contato
