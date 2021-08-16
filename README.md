@@ -17,9 +17,8 @@ Atualmente meus estudos estão focados em utilizar TypeScript e o NextJs.
 
 ## 🌳 Meu escritório Digital 
 
-Você pode encontrar as postagens do meu blog em [blog.EmBreveMeuBlog.me] [4]. Eu escrevo sobre coisas que eu
-estou familiarizado com a inclusão de ** JavaScript **, ** TypeScript **, ** ReactJS ** e
-** NodeJS **.
+Você pode encontrar as postagens do meu blog em [blog.EmBreveMeuBlog.me] [3]. Escrevo sobre coisas que eu
+estou familiarizado como o JavaScript, TypeScript, ReactJS e NodeJS.
 
 
 ## 📕 Últimos Posts Blog (Em desenvolvimento)
