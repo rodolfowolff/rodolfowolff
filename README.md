@@ -8,7 +8,7 @@ Algumas tecnologias com as quais gosto de trabalhar incluem ReactJS, JavaScript,
 
 Tenho interesse em escrever e desenvolver sobre soluções de software (código aberto).
 
-Meus estudos estão focados em estar usando TypeScript e NextJs nos meus projetos pessoais.
+Atualmente meus estudos estão focados em TypeScript e NextJs.
 
 
 ## 📬 Entrar em contato
