@@ -1,1 +1,40 @@
-# Hello!
+Olá 👋🏻, sou o Rodolfo Wolf 🐺 👨‍💻
+
+Estudante/Desenvolvedor FullStack Web (JS, ReactJS, NodeJS, Pyton, MongoDB).
+
+Apaixonado pelo Front-End com ênfase em performance e um SEO de boa indexação.
+
+Algumas tecnologias com as quais gosto de trabalhar incluem ReactJS, JavaScript, APIs e NodeJS.
+
+Tenho interesse em escrever e desenvolver sobre soluções de software (código aberto).
+
+Meus estudos estão focados em estar usando TypeScript e NextJs nos meus projetos pessoais.
+
+
+## 📬 Entrar em contato
+
+- Web: [https://portfolio-rodolfowolff.vercel.app/][1]
+- LinkedIn: [linkedin.com/in/rodolfowolff][2]
+- Blog: [blog.EmBreveMeuBlog.com][3]
+
+## 🌳 Meu escritório Digital 
+
+Você pode encontrar as postagens do meu blog em [blog.EmBreveMeuBlog.me] [4]. Eu escrevo sobre coisas que eu
+estou familiarizado com a inclusão de ** JavaScript **, ** TypeScript **, ** ReactJS ** e
+** NodeJS **.
+
+
+## 📕 Últimos Posts Blog (Em desenvolvimento)
+
+<!-- BLOG-POST-LIST:START -->
+- [Titulo do post 1.](https://blog.EmBreveMeuBlog)
+- [Titulo do post 2.](https://blog.EmBreveMeuBlog)
+- [Titulo do post 3.](https://blog.EmBreveMeuBlog)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [mais posts...](https://blog.EmBreveMeuBlog.me)
+
+
+[1]: https://portfolio-rodolfowolff.vercel.app/
+[2]: https://www.linkedin.com/in/rodolfowolff
+[3]: https://blog.EmBreveMeuBlog.com
