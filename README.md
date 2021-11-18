@@ -1,12 +1,12 @@
 Olá 👋🏻, sou o Rodolfo Wolf 🐺 👨‍💻
 
-Estudante/Desenvolvedor FullStack Web (ReactJS, NodeJS, Pyton, MongoDB, MySQL, JavaScript).
+Estudante/Desenvolvedor FullStack Web (ReactJS, NodeJS, MongoDB, MySQL, JavaScript).
 
-Apaixonado pelo Front-End com ênfase em performance, SEO de boa indexação e principalmente a experiencia do usuario.
+Apaixonado por desenvolvimento Web com ênfase em performance, SEO de boa indexação e principalmente a experiencia do usuario.
 
-Algumas tecnologias com as quais gosto de trabalhar incluem ReactJS, JavaScript NextJS, TypeScript, APIs e NodeJS.
+Algumas tecnologias com as quais gosto de trabalhar incluem ReactJS, JavaScript, NextJS, TypeScript, APIs e NodeJS.
 
-Atualmente meus estudos estão focados em utilizar TypeScript e o NextJs.
+Atualmente meus estudos estão focados em utilizar TypeScript e NextJs.
 
 
 ## 📬 Entrar em contato
