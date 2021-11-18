@@ -1,6 +1,6 @@
 Olá 👋🏻, sou o Rodolfo Wolf 🐺 👨‍💻
 
-Estudante/Desenvolvedor FullStack Web (ReactJS, NodeJS, MongoDB, MySQL, JavaScript).
+Desenvolvedor FullStack Web (ReactJS, NodeJS, MongoDB, MySQL, JavaScript).
 
 Apaixonado por desenvolvimento Web com ênfase em performance, SEO de boa indexação e principalmente a experiencia do usuario.
 
