@@ -11,8 +11,8 @@ Atualmente meus estudos estão focados em utilizar TypeScript e NextJs.
 
 ## 📬 Entrar em contato
 
-- LinkedIn: linkedin.com/in/rodolfowolff
-- Blog: https://xablau.vercel.app
+- LinkedIn: [linkedin.com/in/rodolfowolff][1]
+- Blog: [https://xablau.vercel.app][2]
 
 ## 🌳 Meu escritório Digital 
 
