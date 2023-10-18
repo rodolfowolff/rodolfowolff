@@ -11,27 +11,23 @@ Atualmente meus estudos estão focados em utilizar TypeScript e NextJs.
 
 ## 📬 Entrar em contato
 
-- Web: [https://portfolio-rodolfowolff.vercel.app/][1]
 - LinkedIn: [linkedin.com/in/rodolfowolff][2]
-- Blog: [blog.EmBreveMeuBlog.com][3]
+- Blog: [https://xablau.vercel.app][3]
 
 ## 🌳 Meu escritório Digital 
 
-Você pode encontrar as postagens do meu blog em [blog.EmBreveMeuBlog.me][3]. Escrevo sobre coisas que eu
+Você pode encontrar as postagens do meu blog em [https://xablau.vercel.app][2]. Escrevo sobre coisas que eu
 estou familiarizado como o JavaScript, TypeScript, ReactJS e NodeJS.
 
 
 ## 📕 Últimos Posts Blog (Em desenvolvimento)
 
 <!-- BLOG-POST-LIST:START -->
-- [Titulo do post 1.](https://blog.EmBreveMeuBlog)
-- [Titulo do post 2.](https://blog.EmBreveMeuBlog)
-- [Titulo do post 3.](https://blog.EmBreveMeuBlog)
+- [Clean Code.](https://xablau.vercel.app/post/clean-code)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [mais posts...](https://blog.EmBreveMeuBlog.me)
+➡️ [mais posts...](https://xablau.vercel.app)
 
 
-[1]: https://portfolio-rodolfowolff.vercel.app/
-[2]: https://www.linkedin.com/in/rodolfowolff
-[3]: https://blog.EmBreveMeuBlog.com
+[1]: https://www.linkedin.com/in/rodolfowolff
+[2]: https://xablau.vercel.app
